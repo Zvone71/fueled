@@ -1,0 +1,9 @@
+Django==2.1.7
+django-haystack==2.8.1
+django-js-asset==1.2.1
+django-machina==0.7.1
+django-mptt==0.9.1
+django-widget-tweaks==1.4.3
+markdown2==2.3.7
+Pillow==5.4.1
+pytz==2018.9
