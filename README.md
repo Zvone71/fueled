@@ -1,8 +1,7 @@
 # Q&A forum
 A django-based Q&A forum, a community-driven web application. 
 
-
-![Alt Text](https://i.imgur.com/QvCjcva.gif)
+![Alt Text](https://i.imgur.com/4aBCcbs.gif)
 
 ---
 ### Features
